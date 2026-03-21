@@ -1,0 +1,78 @@
+Sha'tari Vindicator's Waistguard - 11567 | id: 31460 | slot: Waist | ilvl/req: 115/67 | stats: Sta 33, Armor 655, Defense 20, BlockRtng 24 | source: How to Break Into the Arcatraz (q:10704)
+Overlord's Helmet of Second Sight - 10967 | id: 31105 | slot: Head | ilvl/req: 109/67 | stats: Sta 22, Str 29, Armor 898, Hit 13, Crit 24 | source: Unknown
+Myrmidon's Headdress - 11567 | id: 28180 | slot: Head | ilvl/req: 115/67 | stats: n/a | source: The Warlord's Hideout (q:9763)
+Flesh Beast's Metal Greaves - 9764 | id: 29325 | slot: Feet | ilvl/req: 97/64 | stats: Sta 25, Armor 680, Defense 18, Dodge 28 | source: Someone Else's Hard Work Pays Off (q:10218)
+Sha'tari Wrought Armguards - 11568 | id: 28167 | slot: Wrist | ilvl/req: 115/68 | stats: Sta 18, Str 20, Armor 509, Defense 12 | source: The Soul Devices (q:10091)
+Sha'tari Wrought Greaves - 11568 | id: 28176 | slot: Feet | ilvl/req: 115/68 | stats: Sta 22, Str 24, Agi 21, Armor 800 | source: Into the Heart of the Labyrinth (q:10095)
+Lightwarden's Girdle - 10967 | id: 30371 | slot: Waist | ilvl/req: 109/67 | stats: Sta 30, Int 14, Armor 622, Defense 23, SpellDmg 28, Healing 28 | source: Deathblow to the Legion (q:10409)
+Breastplate of the Warbringer - 10366 | id: 25819 | slot: Chest | ilvl/req: 103/66 | stats: Sta 45, Armor 1048, Defense 31, Hit 30 | source: Forge Camp: Annihilated (q:10011)
+Chestplate of A'dal - 10967 | id: 30258 | slot: Chest | ilvl/req: 109/67 | stats: Sta 27, Str 35, Armor 1106, Hit 22, Crit 25 | source: Special Delivery to Shattrath City (q:10280)
+Warchief's Mantle - 10366 | id: 29316 | slot: Shoulder | ilvl/req: 103/66 | stats: Sta 27, Str 23, Armor 786, Parry 18 | source: Return to Andormu (q:10285)
+Blackened Chestplate - 10965 | id: 31548 | slot: Chest | ilvl/req: 109/65 | stats: Sta 27, Str 30, Agi 30, Armor 1106, Hit 25 | source: Unknown
+Gilded Crimson Chestplate - 8558 | id: 28055 | slot: Chest | ilvl/req: 85/58 | stats: Sta 15, Str 14, Int 13, Armor 873, SpellDmg 42, Healing 42 | source: Unknown
+The Exarch's Protector - 10064 | id: 29337 | slot: Chest | ilvl/req: 100/64 | stats: Str 30, Armor 1018, Defense 23, Crit 18 | source: Everything Will Be Alright (q:10164)
+Dauntless Handguards - 11467 | id: 25788 | slot: Hands | ilvl/req: 114/67 | stats: Sta 36, Armor 722, BlockRtng 25 | source: Fel Embers (q:9494)
+Legguards of the Resolute Defender - 10667 | id: 29783 | slot: Legs | ilvl/req: 106/67 | stats: Sta 42, Agi 23, Armor 942, Defense 31, Parry 20 | source: Destroy Naberius! (q:10320)
+Jade Warrior Pauldrons - 8559 | id: 25715 | slot: Shoulder | ilvl/req: 85/59 | stats: Sta 28, Str 20, Agi 19, Armor 655 | source: Unknown
+Battlemaster's Breastplate - 8858 | id: 31720 | slot: Chest | ilvl/req: 88/58 | stats: n/a | source: Unknown
+Starcaller's Plated Legguards - 10968 | id: 30299 | slot: Legs | ilvl/req: 109/68 | stats: Sta 27, Int 18, Armor 968, SpellDmg 30, Healing 88 | source: Dimensius the All-Devouring (q:10439)
+Breastplate of Retribution - 8859 | id: 25701 | slot: Chest | ilvl/req: 88/59 | stats: Sta 33, Str 23, Int 22, Armor 902, SpellDmg 27, Healing 27 | source: Unknown
+Consortium Plated Legguards - 9764 | id: 29342 | slot: Legs | ilvl/req: 97/64 | stats: n/a | source: Undercutting the Competition (q:10165)
+Mag'hari Warlord's Legplates - 10366 | id: 28175 | slot: Legs | ilvl/req: 103/66 | stats: Sta 64, Str 12, Armor 917, Defense 16, Hit 15, Crit 12 | source: Hero of the Mag'har (q:10212)
+Gauntlets of the Vanquisher - 10967 | id: 30375 | slot: Hands | ilvl/req: 109/67 | stats: Sta 30, Str 24, Agi 23, Armor 691, Hit 14 | source: Turning Point (q:10507)
+X-52 Technician's Helm - 10667 | id: 30016 | slot: Head | ilvl/req: 106/67 | stats: Sta 36, Str 38, Int 16, Armor 875, Defense 16 | source: Back to the Chief! (q:10249)
+Cover of Righteous Fury - 9764 | id: 29312 | slot: Head | ilvl/req: 97/64 | stats: Sta 34, Str 40, Int 12, Armor 804 | source: Levixus the Soul Caller (q:10253)
+Borak's Belt of Bravery - 10968 | id: 30962 | slot: Waist | ilvl/req: 109/68 | stats: Sta 24, Str 26, Agi 26, Armor 622 | source: The Cipher of Damnation - The Third Fragment Recovered (q:10579)
+Golden Cenarion Greaves - 9161 | id: 28069 | slot: Feet | ilvl/req: 91/61 | stats: Sta 12, Str 34, Int 12, Armor 641 | source: Natural Remedies (q:10351)
+Leonine Breastplate - 10965 | id: 31549 | slot: Chest | ilvl/req: 109/65 | stats: Sta 27, Str 45, Int 16, Armor 1106 | source: Unknown
+The Hands of Fate - 10968 | id: 30967 | slot: Hands | ilvl/req: 109/68 | stats: Sta 21, Str 34, Int 18, Armor 691 | source: The Cipher of Damnation - The Third Fragment Recovered (q:10579)
+Kaylaan's Signet - 10967 | id: 30860 | slot: Finger | ilvl/req: 109/67 | stats: Agi 15, Hit 10, AP 50, RAP 50 | source: Deathblow to the Legion (q:10409)
+Slayer's Mark of the Redemption - 10968 | id: 31077 | slot: Finger | ilvl/req: 109/68 | stats: Agi 15, Hit 10, AP 50, RAP 50 | source: Unknown
+Overseer's Signet - 10967 | id: 30365 | slot: Finger | ilvl/req: 109/67 | stats: Str 25, Agi 15, Hit 10 | source: Shutting Down Manaforge Ara (q:10323)
+Andormu's Tear - 11566 | id: 29323 | slot: Finger | ilvl/req: 115/66 | stats: Defense 10, Dodge 26, BlockRtng 15 | source: Hero of the Brood (q:10298)
+Violet Signet - 11570 | id: 29277 | slot: Finger | ilvl/req: 110/70 | stats: Sta 33, Armor 350, Defense 16 | source: Unknown
+Celestial Jewel Ring - 10667 | id: 29814 | slot: Finger | ilvl/req: 106/67 | stats: Int 13, SpellDmg 19, Healing 55 | source: Hitting the Motherlode (q:10293)
+Spiritualist's Mark of the Sha'tar - 10968 | id: 31383 | slot: Finger | ilvl/req: 109/68 | stats: Spi 12, SpellDmg 22, Healing 64 | source: Battle of the Crimson Watch (q:10781)
+Protector's Mark of the Redemption - 10968 | id: 31078 | slot: Finger | ilvl/req: 109/68 | stats: Sta 22, Defense 25 | source: Unknown
+Band of Anguish - 10667 | id: 30973 | slot: Finger | ilvl/req: 106/67 | stats: Agi 13, Hit 10, AP 50, RAP 50 | source: Unknown
+Manastorm Band - 10967 | id: 30366 | slot: Finger | ilvl/req: 109/67 | stats: Int 15, SpellDmg 29, Healing 29 | source: Shutting Down Manaforge Ara (q:10365)
+Evoker's Mark of the Redemption - 10968 | id: 31075 | slot: Finger | ilvl/req: 109/68 | stats: Int 15, SpellDmg 29, Healing 29 | source: Unknown
+Band of the Guardian - 11566 | id: 29320 | slot: Finger | ilvl/req: 115/66 | stats: Int 11, SpellDmg 23, Healing 23 | source: Hero of the Brood (q:10298)
+Acrobat's Mark of the Sha'tar - 10968 | id: 31380 | slot: Finger | ilvl/req: 109/68 | stats: Str 29, Agi 12 | source: Battle of the Crimson Watch (q:10781)
+Keeper's Ring of Piety - 11566 | id: 29322 | slot: Finger | ilvl/req: 115/66 | stats: Spi 18, SpellDmg 14, Healing 42 | source: Hero of the Brood (q:10298)
+Cenarion Ring of Casting - 9462 | id: 25541 | slot: Finger | ilvl/req: 94/62 | stats: Sta 24, Int 16, SpellDmg 18, Healing 18 | source: Lost in Action (q:9738)
+Ogre Slayer's Band - 10065 | id: 25775 | slot: Finger | ilvl/req: 100/65 | stats: Sta 25, Str 17, Agi 16 | source: Unknown
+Holy Healing Band - 8859 | id: 25713 | slot: Finger | ilvl/req: 88/59 | stats: Int 15, SpellDmg 11, Healing 33 | source: Unknown
+Naliko's Revenge - 10967 | id: 25804 | slot: Finger | ilvl/req: 109/67 | stats: Sta 27, Crit 18, AP 34, RAP 34 | source: Turning the Tide (q:9492)
+Conquerer's Band - 10967 | id: 25811 | slot: Finger | ilvl/req: 109/67 | stats: Sta 27, Crit 18, AP 34, RAP 34 | source: The Will of the Warchief (q:9495)
+Aggressor's Mark of the Sha'tar - 10968 | id: 31381 | slot: Finger | ilvl/req: 109/68 | stats: Crit 29, AP 24, RAP 24 | source: Battle of the Crimson Watch (q:10781)
+Burning Blade Cultist Band - 9764 | id: 25606 | slot: Finger | ilvl/req: 97/64 | stats: Sta 24, SpellDmg 19, Healing 19 | source: Message to Telaar (q:9933)
+Time-bending Gem - 11566 | id: 29321 | slot: Finger | ilvl/req: 115/66 | stats: Sta 19, Dodge 21, AP 36, RAP 36 | source: Hero of the Brood (q:10298)
+Mage's Mark of the Sha'tar - 10968 | id: 31382 | slot: Finger | ilvl/req: 109/68 | stats: SpellDmg 14, Healing 14 | source: Battle of the Crimson Watch (q:10781)
+Spellsword's Mark of the Redemption - 10968 | id: 31076 | slot: Finger | ilvl/req: 109/68 | stats: Str 23, Agi 12, Int 9, SpellDmg 18, Healing 18 | source: Unknown
+Karja's Medallion - 10967 | id: 30377 | slot: Neck | ilvl/req: 109/67 | stats: Int 15, Spi 10, SpellDmg 19, Healing 55 | source: Shutting Down Manaforge Ara (q:10323)
+Natasha's Choker - 10365 | id: 31695 | slot: Neck | ilvl/req: 103/65 | stats: Hit 10, Crit 15, AP 50, RAP 50 | source: The Hound-Master (q:10912)
+Natasha's Guardian Cord - 10365 | id: 31691 | slot: Neck | ilvl/req: 103/65 | stats: Int 10, SpellDmg 19, Healing 55 | source: The Hound-Master (q:10912)
+Amulet of the Torn-heart - 10968 | id: 31074 | slot: Neck | ilvl/req: 109/68 | stats: Sta 30 | source: The Cipher of Damnation (q:10588)
+Earthen Mark of Razing - 10064 | id: 25562 | slot: Neck | ilvl/req: 100/64 | stats: Agi 23, Hit 13, AP 20, RAP 20 | source: Gurok the Usurper (q:9853)
+Natasha's Ember Necklace - 10365 | id: 31692 | slot: Neck | ilvl/req: 103/65 | stats: Int 15, SpellDmg 29, Healing 29 | source: The Hound-Master (q:10912)
+Thalodien's Charm - 10967 | id: 30378 | slot: Neck | ilvl/req: 109/67 | stats: Sta 37, Defense 15 | source: Shutting Down Manaforge Ara (q:10365)
+Mark of the Ravenguard - 11565 | id: 29336 | slot: Neck | ilvl/req: 115/65 | stats: Sta 40, Defense 17 | source: Brother Against Brother (q:10097)
+Talon Lord's Collar - 11565 | id: 29335 | slot: Neck | ilvl/req: 115/65 | stats: n/a | source: Brother Against Brother (q:10097)
+Torc of the Sethekk Prophet - 11565 | id: 29333 | slot: Neck | ilvl/req: 115/65 | stats: Int 18, SpellDmg 19, Healing 19 | source: Brother Against Brother (q:10097)
+Chain of Glowing Tendrils - 10667 | id: 29815 | slot: Neck | ilvl/req: 106/67 | stats: Sta 25, Str 18, Agi 17 | source: Hitting the Motherlode (q:10293)
+Insignia of the Mag'hari Hero - 10366 | id: 28168 | slot: Neck | ilvl/req: 103/66 | stats: Sta 21, Hit 14, Crit 15, AP 30, RAP 30 | source: Hero of the Mag'har (q:10212)
+Natasha's Arcane Filament - 10365 | id: 31693 | slot: Neck | ilvl/req: 103/65 | stats: Sta 22, Int 10, SpellDmg 29, Healing 29 | source: The Hound-Master (q:10912)
+Natasha's Battle Chain - 10365 | id: 31696 | slot: Neck | ilvl/req: 103/65 | stats: Sta 37, Defense 13 | source: The Hound-Master (q:10912)
+Natasha's Pack Collar - 10365 | id: 31694 | slot: Neck | ilvl/req: 103/65 | stats: Sta 15, Str 25, Agi 15 | source: The Hound-Master (q:10912)
+Choker of Bloodied Feathers - 9462 | id: 31727 | slot: Neck | ilvl/req: 94/62 | stats: Sta 24, Agi 15, AP 32, RAP 32 | source: The Skettis Offensive (q:10879)
+Potent Sha'tari Pendant - 11567 | id: 31747 | slot: Neck | ilvl/req: 115/67 | stats: SpellDmg 27, Healing 27, Resilience 24 | source: Harbinger of Doom (q:10882)
+Sethekk Oracle's Focus - 11565 | id: 29334 | slot: Neck | ilvl/req: 115/65 | stats: Int 19, SpellDmg 12, Healing 35 | source: Brother Against Brother (q:10097)
+Necklace of Bloodied Feathers - 9462 | id: 31726 | slot: Neck | ilvl/req: 94/62 | stats: Sta 24, Int 15, SpellDmg 19, Healing 19 | source: The Skettis Offensive (q:10879)
+Shattrath Choker of Power - 11567 | id: 31748 | slot: Neck | ilvl/req: 115/67 | stats: AP 46, RAP 46, Resilience 24 | source: Harbinger of Doom (q:10882)
+A'dal's Recovery Necklace - 11567 | id: 31749 | slot: Neck | ilvl/req: 115/67 | stats: SpellDmg 17, Healing 51, Resilience 24 | source: Harbinger of Doom (q:10882)
+Crimson Pendant of Clarity - 8859 | id: 25714 | slot: Neck | ilvl/req: 88/59 | stats: Int 15, SpellDmg 18, Healing 18 | source: Unknown
+Earthen Mark of Power - 10064 | id: 25563 | slot: Neck | ilvl/req: 100/64 | stats: Int 13, SpellDmg 12, Healing 12 | source: Gurok the Usurper (q:9853)
+Ogre Slayer's Pendant - 10065 | id: 25776 | slot: Neck | ilvl/req: 100/65 | stats: Sta 24, Int 17, SpellDmg 13, Healing 37 | source: Unknown
+Medallion of the Valiant Guardian - 10967 | id: 25803 | slot: Neck | ilvl/req: 109/67 | stats: Sta 27, Str 17, Defense 18 | source: Turning the Tide (q:9492)
+Maimfist's Choker - 10967 | id: 25809 | slot: Neck | ilvl/req: 109/67 | stats: Sta 27, Str 17, Defense 18 | source: The Will of the Warchief (q:9495)

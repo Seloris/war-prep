@@ -13,10 +13,10 @@ Mental mode: **collect and document, not judge.**
 | File                | Category                                           | Status |
 |---------------------|----------------------------------------------------|--------|
 | craftable_raw.md    | BoE crafted gear + AH-buyable crafted items        | Empty  |
-| reputation_raw.md   | Rep vendor items, unlock requirements, rep sources | Empty  |
+| reputation_raw.md   | Rep vendor items, unlock requirements, rep sources | In progress — gaps remain (Scryers shoulder enchant name, Glyph of Defender rep level, several item stat verifications) |
 | dungeon-loot_raw.md | Normal/heroic drops + dungeon quest rewards, by slot | In progress — gaps remain (neck slot, expertise) |
 | pvp-gear_raw.md     | Honor gear and Season 1 arena gear                   | Empty  |
-| group-quests_raw.md | Open-world group quests with notable tank rewards     | Empty  |
+| group-quests_raw.md | Open-world group quests with notable tank rewards     | In progress — 15 items verified via Wowhead; gaps: Ultimate Bloodsport shield discrepancy unresolved, leather armor tradeoffs not quantified |
 | badge-gear_raw.md   | Items purchasable with Badges of Justice (G'eras)  | Empty  |
 
 ---
