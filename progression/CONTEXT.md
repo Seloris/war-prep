@@ -14,6 +14,7 @@ Nothing is fetched here — all raw data comes from research/.
 |--------------------|------------------------------------------------------|--------|
 | bis-list_draft.md  | Working BiS list — updated as research completes     | Empty  |
 | roadmap_final.md   | Staged acquisition plan, derived from BiS list       | Empty  |
+| advisor_log.md     | Persistent Q&A log — decisions and rationale         | Active |
 
 Promote `bis-list_draft.md` → `bis-list_final.md` only when all 5 research categories are complete.
 Build `roadmap_final.md` only after `bis-list_final.md` exists.

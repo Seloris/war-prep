@@ -14,9 +14,10 @@ Mental mode: **collect and document, not judge.**
 |---------------------|----------------------------------------------------|--------|
 | craftable_raw.md    | BoE crafted gear + AH-buyable crafted items        | Empty  |
 | reputation_raw.md   | Rep vendor items, unlock requirements, rep sources | Empty  |
-| dungeon-loot_raw.md | Normal and heroic instance drops, by slot          | Empty  |
-| pvp-gear_raw.md     | Honor gear and Season 1 arena gear                 | Empty  |
-| group-quests_raw.md | World/dungeon quests with notable tank rewards     | Empty  |
+| dungeon-loot_raw.md | Normal/heroic drops + dungeon quest rewards, by slot | In progress — gaps remain (neck slot, expertise) |
+| pvp-gear_raw.md     | Honor gear and Season 1 arena gear                   | Empty  |
+| group-quests_raw.md | Open-world group quests with notable tank rewards     | Empty  |
+| badge-gear_raw.md   | Items purchasable with Badges of Justice (G'eras)  | Empty  |
 
 ---
 
@@ -56,11 +57,18 @@ Sources: [list sources used]
 
 ## Sources (Priority Order)
 
-1. Wowhead TBC Classic database (item pages, tooltips, drop rates)
+1. Wowhead TBC Classic database — wowhead.com/tbc (item pages, tooltips, drop rates)
 2. Icy Veins TBC Classic Protection Warrior guide
 3. Community BiS threads (Elitist Jerks archive, Reddit r/classicwow TBC threads)
 
-When sources conflict: document **both** values and note the conflict in the Notes column.
-Do not silently pick one.
+When sources conflict: **Wowhead TBC (wowhead.com/tbc) is the source of truth.** Use the Wowhead value. Note the deviation from other sources in the Notes column, but do not treat it as an open conflict.
 
 Flag items that are **not available in Phase 1** in the "Phase 1 Available" column (Yes / No / Unknown).
+
+---
+
+## Categorization Rules
+
+- **dungeon-loot_raw.md** — dungeon boss drops AND dungeon quest rewards (quests that require completing dungeon content). Note quest rewards with "Quest reward —" in the Source Detail column.
+- **group-quests_raw.md** — open-world group quests only (quests that do not require entering a dungeon instance).
+- **craftable_raw.md** — any item obtained via a crafting profession, regardless of slot.

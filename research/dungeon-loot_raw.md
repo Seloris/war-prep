@@ -8,11 +8,10 @@ Sources: Wowhead TBC Classic pre-raid BiS guide, Icy Veins TBC Classic Protectio
 
 | Item Name | Slot | Key Stats | Source Detail | Phase 1 Available | Notes |
 |-----------|------|-----------|---------------|-------------------|-------|
-| Myrmidon's Headdress | Head | +37 Stamina, +33 Defense | Botanica — Warp Splinter (Normal) | Yes | Wowhead: Botanica. Icy Veins mentions Steamvault. **Conflict on dungeon source — verify.** |
-| Barbed Choker of Discipline | Neck | +18 Stamina, +18 Defense, +14 Hit | Shattered Halls — Warbringer O'mrogg (Heroic) | Yes | Good hit + defense combo. Source from training data, not verified on fetched pages. |
-| Necklace of the Deep | Neck | +20 Stamina, +13 Defense | Slave Pens — Mennu the Betrayer (Normal) | Yes | Easy to farm, solid entry-level neck. Source from training data, not verified on fetched pages. |
+| Warhelm of the Bold | Head | +23 Stamina, +24 Strength, +22 Agility, +20 Defense, 946 Armor | Botanica — Warp Splinter (Normal) | Yes | Meta + Blue socket, +4 Strength socket bonus. Part of Bold Armor set. Verified on Wowhead. |
+| Myrmidon's Headdress | Head | +37 Stamina, +33 Defense | Quest reward — "The Warlord's Hideout" (requires Steamvaults final boss) | Yes | Dungeon quest reward. Chain: Lost In Action → The Warlord's Hideout. Verified on Wowhead. |
 | Spaulders of Dementia | Shoulders | +34 Stamina, +24 Agility, +23 Defense | Sethekk Halls — Talon King Ikiss (Heroic) | Yes | High stamina |
-| Fanblade Pauldrons | Shoulders | +22 Stamina, +20 Defense, +15 Parry | Auchenai Crypts — Shirrak the Dead Watcher (Heroic) | Yes | Wowhead says Shadow Lab Heroic. Icy Veins says Auchenai Crypts Heroic. **Conflict on dungeon — Icy Veins likely correct.** |
+| Fanblade Pauldrons | Shoulders | +22 Stamina, +20 Defense, +15 Parry | Auchenai Crypts — Shirrak the Dead Watcher (Heroic) | Yes | Source: Wowhead (Auchenai Crypts). |
 | Shoulderguards of the Bold | Shoulders | +25 Stamina, +25 Strength, +17 Defense | Shadow Labyrinth — Murmur (Normal) | Yes | Threat-friendly via Strength |
 | Devilshark Cape | Back | +22 Stamina, +20 Defense, +18 Dodge | Steamvault — Warlord Kalithresh (Heroic) | Yes | Best-in-slot cape for survivability |
 | Burnoose of Shifting Ages | Back | +15 Stamina, +26 Defense, +29 Block Value | Black Morass — Aeonus (Heroic) | Yes | High block value, good for avoidance build |
@@ -47,10 +46,9 @@ Sources: Wowhead TBC Classic pre-raid BiS guide, Icy Veins TBC Classic Protectio
 
 ## Gaps / Unverified
 
-- **Neck slot** — Only 2 items. Barbed Choker and Necklace of the Deep sourced from training data, not confirmed by fetched pages. Needs verification on Wowhead.
-- **Myrmidon's Headdress dungeon** — Wowhead says Botanica, Icy Veins says Steamvault. Unresolved conflict.
-- **Fanblade Pauldrons dungeon** — Wowhead says Shadow Lab Heroic, Icy Veins says Auchenai Crypts Heroic (Shirrak). Unresolved conflict.
-- **Head slot** — Only one item listed. No heroic head alternatives found. Likely missing items.
+- **Neck slot** — No dungeon neck drop currently listed. Barbed Choker of Discipline is a Karazhan raid drop (removed). Necklace of the Deep is crafted (moved to craftable_raw.md). Needs research for actual dungeon neck drops.
+- **Fanblade Pauldrons** — Resolved: Auchenai Crypts Heroic, Shirrak (Wowhead verified).
+- **Head slot** — Filled: Warhelm of the Bold (Botanica Normal). No heroic head alternative identified yet.
 - **Expertise** — No dungeon drop with Expertise rating identified in any source. Expertise likely comes from crafted/PvP/enchant sources. Needs targeted search.
 - **Exact stats** — Items sourced from training knowledge (not page fetch) should be verified on Wowhead before farming. Flagged in Notes column.
 - **Normal vs Heroic drop confirmation** — Several items listed as dropping from both difficulties. Not all have been confirmed individually.

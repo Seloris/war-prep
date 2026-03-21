@@ -4,7 +4,14 @@
       "WebSearch",
       "WebFetch(domain:www.wowhead.com)",
       "WebFetch(domain:www.icy-veins.com)",
-      "WebFetch(domain:wowtbc.gg)"
+      "WebFetch(domain:wowtbc.gg)",
+      "WebFetch(domain:wowwiki-archive.fandom.com)",
+      "WebFetch(domain:boostmatch.gg)",
+      "WebFetch(domain:legacy-wow.com)",
+      "WebFetch(domain:www.warcrafttavern.com)",
+      "WebFetch(domain:instant-carry.com)",
+      "WebFetch(domain:wowpedia.fandom.com)",
+      "WebFetch(domain:tbc.cavernoftime.com)"
     ]
   }
 }
